@@ -8,5 +8,5 @@ This Magisk module enables the playback of up to 4K video playback in the app Yo
 4. Magisk Manager 3.0 or higher
 
 ## Changelog
-1.0.0
+v1.0.0
    - Initial release, may be broken.
