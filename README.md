@@ -14,5 +14,6 @@ This Magisk module enables the playback of up to 4K video playback in the app Yo
 ## Changelog
 v1.0.1
    - Updated to the v4 template.
+
 v1.0.0
    - Initial release, may be broken.
