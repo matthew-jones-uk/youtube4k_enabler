@@ -12,7 +12,7 @@ This Magisk module enables the playback of up to 4K video playback in the app Yo
 + More infomation is available at [this](https://www.xda-developers.com/how-to-watch-4k-youtube-videos-on-non-4k-phones/) XDA article.
 
 ## Changelog
-v1.0.1
+v1.1
    - Updated to the v4 template.
 
 v1.0.0
